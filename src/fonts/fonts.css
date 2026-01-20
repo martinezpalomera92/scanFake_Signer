@@ -1,0 +1,56 @@
+/* caveat-regular */
+@font-face {
+    font-family: 'Caveat';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./caveat-v23-latin-regular.woff2') format('woff2');
+    font-display: swap;
+}
+
+/* dancing-script-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/dancing-script-v29-latin-regular.woff2') format('woff2');
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* homemade-apple-regular */
+@font-face {
+    font-family: 'Homemade Apple';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./homemade-apple-v24-latin-regular.woff2') format('woff2');
+    font-display: swap;
+}
+
+/* just-another-hand-regular */
+@font-face {
+    font-family: 'Just Another Hand';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./just-another-hand-v21-latin-regular.woff2') format('woff2');
+    font-display: swap;
+}
+
+/* reenie-beanie-regular - AGREGAR FALLBACK */
+@font-face {
+    font-family: 'Reenie Beanie';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./reenie-beanie-v22-latin-regular.woff2') format('woff2');
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* shadows-into-light-regular */
+@font-face {
+    font-family: 'Shadows Into Light';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./shadows-into-light-v22-latin-regular.woff2') format('woff2');
+    font-display: swap;
+}
