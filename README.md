@@ -1,6 +1,6 @@
-ScanFake Firmador 🖊️📄
+ScanFake App PDF Filler/Signer 🖊️📄
 
-ScanFake Firmador es una aplicación web avanzada de grado profesional diseñada para la edición, firma y post-procesado de documentos PDF. Su característica distintiva es la capacidad de aplicar un efecto de "escaneado" hiperrealista, ideal para procesos que requieren la apariencia de un documento físico procesado.
+ScanFake App PDF Filler/Signer es una aplicación web avanzada de grado profesional diseñada para la edición, firma y post-procesado de documentos PDF. Su característica distintiva es la capacidad de aplicar un efecto de "escaneado" hiperrealista, ideal para procesos que requieren la apariencia de un documento físico procesado.
 
 🇪🇸 Español
 
